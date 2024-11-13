@@ -19,3 +19,7 @@ This repository is for showing how Git and GitHub work
 ## Deployment
 
 This is a simple web project.
+
+### Copyright
+
+2014 Git.Training
