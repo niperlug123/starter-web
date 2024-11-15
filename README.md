@@ -18,7 +18,9 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Purpose or propose. Adding a line for rebasing, more changes from myfeature bracnh too.
+Purpose or propose. Adding a line for rebasing, more changes from myfeature branch too.
+
+## Updates from Dev 1
 
 ## Deployment
 
