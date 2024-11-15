@@ -18,6 +18,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+Purpose or propose. Adding a line for rebasing.
+
 ## Deployment
 
 This is a simple web project.
