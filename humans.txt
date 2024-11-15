@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tudor Tanase tudor@git.training @isaki
 
 # THANKS
 
