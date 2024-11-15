@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thnaks to binding.
 
 # TECHNOLOGY COLOPHON
 
